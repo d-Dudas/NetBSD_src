@@ -1,0 +1,8 @@
+/autoconf.c/1.3/Fri May 19 07:40:58 2017//Tnetbsd-9-3-RELEASE
+/clock.c/1.10/Sun May 21 06:49:12 2017//Tnetbsd-9-3-RELEASE
+/cpu.c/1.4/Sun May 21 06:49:12 2017//Tnetbsd-9-3-RELEASE
+/cpu_startup.S/1.1/Fri Jan 29 01:54:14 2016//Tnetbsd-9-3-RELEASE
+/intr.c/1.13/Sun May 21 06:49:12 2017//Tnetbsd-9-3-RELEASE
+/machdep.c/1.14/Sun May 21 06:49:12 2017//Tnetbsd-9-3-RELEASE
+/mainbus.c/1.7/Sun May 21 06:49:12 2017//Tnetbsd-9-3-RELEASE
+D

@@ -1,0 +1,45 @@
+/Makefile/1.1.1.2/Thu Aug 16 18:17:47 2018//Tnetbsd-9-3-RELEASE
+/efi.h/1.1.1.2/Thu Aug 16 18:17:47 2018//Tnetbsd-9-3-RELEASE
+/efi_nii.h/1.1.1.2/Thu Aug 16 18:17:47 2018//Tnetbsd-9-3-RELEASE
+/efi_pxe.h/1.1.1.1/Tue Apr  1 16:16:07 2014//Tnetbsd-9-3-RELEASE
+/efiapi.h/1.3/Thu Aug 16 18:22:05 2018//Tnetbsd-9-3-RELEASE
+/eficompiler.h/1.2/Thu Aug 16 18:24:35 2018//Tnetbsd-9-3-RELEASE
+/eficon.h/1.1.1.2/Thu Aug 16 18:17:47 2018//Tnetbsd-9-3-RELEASE
+/efidebug.h/1.1.1.2/Thu Aug 16 18:17:47 2018//Tnetbsd-9-3-RELEASE
+/efidef.h/1.3/Thu Aug 16 18:22:05 2018//Tnetbsd-9-3-RELEASE
+/efidevp.h/1.1.1.2/Thu Aug 16 18:17:47 2018//Tnetbsd-9-3-RELEASE
+/efierr.h/1.1.1.1/Tue Apr  1 16:16:07 2014//Tnetbsd-9-3-RELEASE
+/efifpswa.h/1.1/Thu Aug  4 18:08:12 2016//Tnetbsd-9-3-RELEASE
+/efifs.h/1.1.1.1/Tue Apr  1 16:16:07 2014//Tnetbsd-9-3-RELEASE
+/efigpt.h/1.1.1.1/Tue Apr  1 16:16:07 2014//Tnetbsd-9-3-RELEASE
+/efiip.h/1.1.1.1/Tue Apr  1 16:16:07 2014//Tnetbsd-9-3-RELEASE
+/efilib.h/1.2/Sun Aug 19 14:50:24 2018//Tnetbsd-9-3-RELEASE
+/efilink.h/1.1.1.2/Thu Aug 16 18:17:47 2018//Tnetbsd-9-3-RELEASE
+/efinet.h/1.1.1.2/Thu Aug 16 18:17:47 2018//Tnetbsd-9-3-RELEASE
+/efipart.h/1.1.1.1/Tue Apr  1 16:16:07 2014//Tnetbsd-9-3-RELEASE
+/efipciio.h/1.1.1.2/Thu Aug 16 18:17:47 2018//Tnetbsd-9-3-RELEASE
+/efipoint.h/1.1.1.1/Thu Aug 16 18:17:47 2018//Tnetbsd-9-3-RELEASE
+/efiprot.h/1.1.1.2/Thu Aug 16 18:17:47 2018//Tnetbsd-9-3-RELEASE
+/efipxebc.h/1.1.1.2/Thu Aug 16 18:17:47 2018//Tnetbsd-9-3-RELEASE
+/efirtlib.h/1.1.1.2/Thu Aug 16 18:17:47 2018//Tnetbsd-9-3-RELEASE
+/efiser.h/1.1.1.2/Thu Aug 16 18:17:47 2018//Tnetbsd-9-3-RELEASE
+/efisetjmp.h/1.1.1.1/Thu Aug 16 18:17:47 2018//Tnetbsd-9-3-RELEASE
+/efishellintf.h/1.1.1.1/Thu Aug 16 18:17:47 2018//Tnetbsd-9-3-RELEASE
+/efishellparm.h/1.1.1.1/Thu Aug 16 18:17:47 2018//Tnetbsd-9-3-RELEASE
+/efistdarg.h/1.3/Thu Aug 16 18:22:05 2018//Tnetbsd-9-3-RELEASE
+/efitcp.h/1.1.1.1/Tue Apr  1 16:16:07 2014//Tnetbsd-9-3-RELEASE
+/efiudp.h/1.1.1.1/Tue Apr  1 16:16:07 2014//Tnetbsd-9-3-RELEASE
+/efiui.h/1.1.1.2/Thu Aug 16 18:17:47 2018//Tnetbsd-9-3-RELEASE
+/inc.mak/1.1.1.1/Tue Apr  1 16:16:07 2014//Tnetbsd-9-3-RELEASE
+/libsmbios.h/1.1.1.1/Tue Apr  1 16:16:07 2014//Tnetbsd-9-3-RELEASE
+/make.inf/1.1.1.1/Tue Apr  1 16:16:07 2014//Tnetbsd-9-3-RELEASE
+/makefile.hdr/1.1.1.1/Tue Apr  1 16:16:07 2014//Tnetbsd-9-3-RELEASE
+/pci22.h/1.1.1.1/Tue Apr  1 16:16:07 2014//Tnetbsd-9-3-RELEASE
+/romload.h/1.1.1.1/Tue Apr  1 16:16:07 2014//Tnetbsd-9-3-RELEASE
+D/aarch64////
+D/arm////
+D/ia32////
+D/ia64////
+D/mips64el////
+D/protocol////
+D/x86_64////

@@ -1,0 +1,9 @@
+/Makefile.inc/1.12.34.1/Tue Jun 14 10:41:18 2022//Tnetbsd-9-3-RELEASE
+/bcopy.S/1.15/Sun Aug 30 07:55:45 2015//Tnetbsd-9-3-RELEASE
+/memcpy.S/1.1/Thu Jun  6 20:03:38 2002//Tnetbsd-9-3-RELEASE
+/memmove.S/1.1/Thu Jun  6 20:03:38 2002//Tnetbsd-9-3-RELEASE
+/milli.S/1.1.204.1/Tue Jun 14 10:41:18 2022//Tnetbsd-9-3-RELEASE
+/milli_extra.S/1.1.2.3/Thu Jun 16 14:19:44 2022//Tnetbsd-9-3-RELEASE
+/prefix.h/1.2/Thu Sep 12 15:36:17 2013//Tnetbsd-9-3-RELEASE
+/spcopy.S/1.1/Thu Jun  6 20:03:39 2002//Tnetbsd-9-3-RELEASE
+D
